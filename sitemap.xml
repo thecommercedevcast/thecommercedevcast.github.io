@@ -2,21 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://your-domain.com/</loc>
-        <lastmod>2025-07-15T23:34:59.448Z</lastmod>
+        <lastmod>2025-08-02T20:11:57.305Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
         <loc>https://your-domain.com/episodes.html</loc>
-        <lastmod>2025-07-15T23:34:59.448Z</lastmod>
+        <lastmod>2025-08-02T20:11:57.305Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://your-domain.com/about.html</loc>
-        <lastmod>2025-07-15T23:34:59.448Z</lastmod>
+        <lastmod>2025-08-02T20:11:57.305Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://your-domain.com/the-commerce-devcast-4-frontend-in-ecommerce.html</loc>
+        <lastmod>2025-07-29T00:00:00.000Z</lastmod>
+        <changefreq>never</changefreq>
+        <priority>0.7</priority>
     </url>
     <url>
         <loc>https://your-domain.com/the-commerce-devcast-3-composable-commerce-guest-rico-neitzel.html</loc>
