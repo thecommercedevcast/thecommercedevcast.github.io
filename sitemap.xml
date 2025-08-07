@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://your-domain.com/</loc>
-        <lastmod>2025-08-02T20:11:57.305Z</lastmod>
+        <loc>https://thecommercedevcast.github.io/</loc>
+        <lastmod>2025-08-07T09:27:17.851Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://your-domain.com/episodes.html</loc>
-        <lastmod>2025-08-02T20:11:57.305Z</lastmod>
+        <loc>https://thecommercedevcast.github.io/episodes.html</loc>
+        <lastmod>2025-08-07T09:27:17.851Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://your-domain.com/about.html</loc>
-        <lastmod>2025-08-02T20:11:57.305Z</lastmod>
+        <loc>https://thecommercedevcast.github.io/about.html</loc>
+        <lastmod>2025-08-07T09:27:17.851Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://your-domain.com/the-commerce-devcast-4-frontend-in-ecommerce.html</loc>
+        <loc>https://thecommercedevcast.github.io/the-commerce-devcast-4-frontend-in-ecommerce.html</loc>
         <lastmod>2025-07-29T00:00:00.000Z</lastmod>
         <changefreq>never</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://your-domain.com/the-commerce-devcast-3-composable-commerce-guest-rico-neitzel.html</loc>
+        <loc>https://thecommercedevcast.github.io/the-commerce-devcast-3-composable-commerce-guest-rico-neitzel.html</loc>
         <lastmod>2025-07-03T00:00:00.000Z</lastmod>
         <changefreq>never</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://your-domain.com/workshop-mcp-model-context-protocol-and-zed-ide-guide-on-how-to-build-your-own-mcp-server.html</loc>
+        <loc>https://thecommercedevcast.github.io/workshop-mcp-model-context-protocol-and-zed-ide-guide-on-how-to-build-your-own-mcp-server.html</loc>
         <lastmod>2025-06-12T00:00:00.000Z</lastmod>
         <changefreq>never</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://your-domain.com/the-commerce-devcast-2-requirement-driven-development-vibe-coding-guest-oleksii-lunkov.html</loc>
+        <loc>https://thecommercedevcast.github.io/the-commerce-devcast-2-requirement-driven-development-vibe-coding-guest-oleksii-lunkov.html</loc>
         <lastmod>2025-06-05T00:00:00.000Z</lastmod>
         <changefreq>never</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://your-domain.com/the-commerce-devcast-1-adobe-app-builder-saas-and-the-future-of-e-commerce-development.html</loc>
+        <loc>https://thecommercedevcast.github.io/the-commerce-devcast-1-adobe-app-builder-saas-and-the-future-of-e-commerce-development.html</loc>
         <lastmod>2025-04-17T00:00:00.000Z</lastmod>
         <changefreq>never</changefreq>
         <priority>0.7</priority>
