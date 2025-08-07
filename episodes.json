@@ -1,0 +1,54 @@
+{
+  "episodes": [
+    {
+      "slug": "the-commerce-devcast-4-frontend-in-ecommerce",
+      "title": "The Commerce DevCast #4 - Frontend in eCommerce",
+      "description": "<p>🎙️ Frontend in E-Commerce: Headless vs Monolith – What Should Merchants Choose?</p><p>This episode focuses on one of the most important aspects of modern digital commerce: **frontend development**. We explore how frontend choices directly affect performance, scalability, and user experience. Should your e-commerce project go headless or stick with a monolithic approach? Our panel breaks down both strategies, compares real-world use cases, and gives practical advice for merchants.</p><p>🎯 Key Takeaways:<br><ul><li>- Frontend is critical for performance and conversion.<br>- Merchants need technical guidance when choosing frontend architecture.<br>- Monolith is great for simpler, cost-effective projects.<br>- Headless offers flexibility and scalability for complex needs.<br>- Performance optimization should be a top priority.<br>- Accessibility and UX standards are increasingly important.<br>- Hyvä themes provide a high-performing Magento alternative.<br>- The right stack depends on traffic, budget, and team expertise.</p><p>💬 Sound Bites:<br>\"A good frontend is about user interaction.\"  <br>\"Hyvä was a game changer for performance.\"  <br>\"Headless architecture offers more flexibility.\"</p><p>📚 Chapters:<br>00:00 Intro  <br>02:42 Why Frontend Matters  <br>04:30 B2B vs B2C UX  <br>07:05 Tech Choices in Frontend  <br>09:33 Aligning Frontend with Business Goals  <br>09:40 Types of Architectures  <br>11:54 Monolith vs Headless  <br>14:48 Current Tech Trends  <br>16:49 Where Frontend is Headed  <br>20:58 Tech Stack Navigation  <br>22:43 Choosing the Right Stack for Magento  <br>24:04 Working with ViewStorefront & Alokai  <br>28:09 Matching Frontend to Business Size  <br>30:11 Comparing Monolith and Headless  <br>38:02 Understanding Merchant Expectations  <br>48:08 Scalability Insights  <br>50:28 Architecture Evaluation  <br>53:16 Pros & Cons of Hybrid Setups  <br>55:32 Budget vs Dev Priorities  <br>57:24 Wrap-up</p><p>🎤 Hosts:<br>- Oleksandr Kravchuk → https://www.linkedin.com/in/oleksandr-kravchuk/  <br>- Vitalii Boiko → https://www.linkedin.com/in/vitalii-boiko-3ba269232/  <br>- Vladyslav Podorozhnyi → https://www.linkedin.com/in/vladyslav-podorozhnyi/</p><p>🎙️ Guest:<br>- Serhii Chernenko (Front-End Lead Engineer at Vaimo)  <br>  LinkedIn → https://www.linkedin.com/in/serhiichernenko/  <br>  YouTube → https://www.youtube.com/@serhii.chernenko</p><p>🌐 More episodes & resources → https://thecommercedevcast.github.io/</p><p>🔔 Subscribe and stay tuned for more e-commerce tech insights!</p><p>#ecommerce #frontend #backend #scalability #monolith #headless #performanceoptimization #technologystack #userexperience #digitalcommerce</p></li></ul>",
+      "publishDate": "2025-07-29",
+      "youtubeUrl": "https://youtube.com/watch?v=b49tfKNCISU",
+      "spotifyUrl": null,
+      "thumbnail": "https://i.ytimg.com/vi/b49tfKNCISU/maxresdefault.jpg",
+      "duration": "57:30"
+    },
+    {
+      "slug": "the-commerce-devcast-3-composable-commerce-guest-rico-neitzel",
+      "title": "The Commerce DevCast #3 - Composable Commerce (guest Rico Neitzel)",
+      "description": "<p>Together with our guest, Rico Neitzel (Co-founder and Lead Architect at run_as_root), we discuss the topic of Composable eCommerce.</p><p>Get ready to hear answers to questions like:<br><ul><li>• What is Composable Architecture?<br>• What problems does it solve?<br>• Who needs it?<br>• What are the drawbacks and additional costs associated with this approach?<br>• What are real-life examples of implementation?</p><p>BONUS:<br>A helpful checklist to determine whether Composable Commerce is a good fit for your business:<br>https://www.run-as-root.sh/ccq</p><p>Hosted by:<br> • Vladyslav Podorozhnyi: https://www.linkedin.com/in/vladyslav-podorozhnyi/<br> • Oleksandr Kravchuk: https://www.linkedin.com/in/oleksandr-kravchuk/<br> • Vitalii Boiko: https://www.linkedin.com/in/vitalii-boiko-3ba269232/<br> • Guest – Rico Neitzel: https://www.linkedin.com/in/rico-neitzel/</p><p>0:00 Welcome!<br>1:40 Introduction to Composable Commerce<br>11:06 Understanding Composable Commerce<br>17:14 Defining Composable Commerce for Merchants<br>23:05 The Purpose and Problems Solved by Composable Commerce<br>26:35 The Project Profile that fits Composable Architecture<br>30:47 Examples of Composable Commerce Platforms<br>43:40 Out-of-the-box Composable Commerce solutions<br>48:38 Challenges of Composable Commerce<br>55:35 Final Thoughts</p></li></ul>",
+      "publishDate": "2025-07-03",
+      "youtubeUrl": "https://youtube.com/watch?v=lAbsz6UMlKw",
+      "spotifyUrl": null,
+      "thumbnail": "https://i.ytimg.com/vi/lAbsz6UMlKw/maxresdefault.jpg",
+      "duration": "57:52"
+    },
+    {
+      "slug": "workshop-mcp-model-context-protocol-and-zed-ide-guide-on-how-to-build-your-own-mcp-server",
+      "title": "[Workshop] MCP ( Model Context Protocol ) and Zed IDE | Guide on how to build your own MCP Server!",
+      "description": "<p>Github Repo: https://github.com/vpodorozh/mcp-git-command-demo</p><p>Summary</p><p>In this session, Vladyslav Podorozhnyi introduces the Model Context Protocol (MCP) and demonstrates how to build an MCP server for executing Git commands. The conversation covers the importance of MCP in standardizing communication with AI models, the tools and resources it provides, and the process of creating and testing an MCP server. Vlad also discusses the architecture involving MCP, LLM, and client interactions, emphasizing the need for proper input and debugging to enhance functionality. The session concludes with a call for questions and further engagement.</p><p>Takeaways</p><p><ul><li>* MCP standardizes communication between applications and AI models.<br>* It helps track conversations efficiently to avoid losing context.<br>* MCP provides tools, prompts, and resources for developers.<br>* Building an MCP server involves defining tools for specific commands.<br>* Testing is crucial to ensure the MCP server functions correctly.<br>* Connecting the MCP server to a client is essential for interaction.<br>* Debugging is necessary to enhance the MCP server's functionality.<br>* The architecture of MCP, LLM, and client is complex but powerful.<br>* LLM acts as a decision maker in the interaction process.<br>* Using MCP requires understanding and careful implementation.</p><p>Chapters</p><p>00:00 Introduction to MCP Server Build<br>04:54 Exploring MCP Server Functionality<br>09:16 Connecting MCP Server to Client<br>12:31 Debugging and Enhancing MCP Functionality<br>16:24 Understanding MCP Architecture and Workflow</p><p>Author:<br>Vladyslav Podorozhnyi https://www.linkedin.com/in/vladyslav-podorozhnyi</p></li></ul>",
+      "publishDate": "2025-06-12",
+      "youtubeUrl": "https://youtube.com/watch?v=VJr90F_dlY4",
+      "spotifyUrl": null,
+      "thumbnail": "https://i.ytimg.com/vi/VJr90F_dlY4/maxresdefault.jpg",
+      "duration": "28:26"
+    },
+    {
+      "slug": "the-commerce-devcast-2-requirement-driven-development-vibe-coding-guest-oleksii-lunkov",
+      "title": "The Commerce DevCast #2 – Requirement Driven Development & Vibe Coding ( guest Oleksii Lunkov )",
+      "description": "<p>Together with our guest Oleksii Lunkov (Fractional Chief E-Commerce Officer), we explore how AI is changing the way we develop software. We talk about understanding requirements, how AI tools are making coding easier, and what this means for business goals, tech debt, and developer roles.</p><p>We also touch on:<br> <ul><li>• The evolution of coding practices<br> • The impact of AI on jobs and the future of work<br> • The importance of evergreen skills<br> • How to stay relevant in an AI-driven world<br> • Procrastination and productivity in tech<br> • What AI means for e-commerce development</p><p>Hosted by:<br> • Vladyslav Podorozhnyi: https://www.linkedin.com/in/vladyslav-podorozhnyi/<br> • Oleksandr Kravchuk: https://www.linkedin.com/in/oleksandr-kravchuk/<br> • Vitalii Boiko: https://www.linkedin.com/in/vitalii-boiko-3ba269232/<br> • Guest – Oleksii Lunkov: https://www.linkedin.com/in/oleksii-lunkov/</p></li></ul>",
+      "publishDate": "2025-06-05",
+      "youtubeUrl": "https://youtube.com/watch?v=X4CD2Wq3A3o",
+      "spotifyUrl": null,
+      "thumbnail": "https://i.ytimg.com/vi/X4CD2Wq3A3o/maxresdefault.jpg",
+      "duration": "1:20:26"
+    },
+    {
+      "slug": "the-commerce-devcast-1-adobe-app-builder-saas-and-the-future-of-e-commerce-development",
+      "title": "The Commerce DevCast #1 – Adobe App Builder, SaaS, and the Future of E-commerce Development",
+      "description": "<p>Hosts: Vlad Podorozhnyi , Oleksandr Kravchuk , Vitalii Boiko</p><p>In this first episode of The Commerce DevCast, we introduce our show and share why we decided to launch it. You’ll meet the hosts — three experienced developers deeply involved in the Magento and Adobe Commerce ecosystem — and hear about our journey in eCommerce development.</p><p>We dive into:<br> <ul><li>• The role of Adobe Commerce in today’s market<br> • What Adobe App Builder is, how it works, and why it matters<br> • Pros and cons of using App Builder in real projects<br> • How it connects with other Adobe services<br> • Key challenges around customization and cost<br> • When App Builder fits — and when it doesn’t<br> • The tools we use daily as developers<br> • Introduction to Adobe SaaS and what it means for the future<br> • And finally, how Adobe’s strategy is shaping the community</p><p>Whether you’re a developer, agency, or merchant — this episode gives you a deep but practical look at where Adobe Commerce is heading and how to prepare for it.</p></li></ul>",
+      "publishDate": "2025-04-17",
+      "youtubeUrl": "https://youtube.com/watch?v=PbjxM-tjgD0",
+      "spotifyUrl": null,
+      "thumbnail": "https://i.ytimg.com/vi/PbjxM-tjgD0/maxresdefault.jpg",
+      "duration": "1:06:54"
+    }
+  ]
+}
