@@ -2,21 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://thecommercedevcast.github.io/</loc>
-        <lastmod>2025-09-12T09:44:22.480Z</lastmod>
+        <lastmod>2025-10-14T08:03:39.637Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
         <loc>https://thecommercedevcast.github.io/episodes.html</loc>
-        <lastmod>2025-09-12T09:44:22.480Z</lastmod>
+        <lastmod>2025-10-14T08:03:39.637Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://thecommercedevcast.github.io/about.html</loc>
-        <lastmod>2025-09-12T09:44:22.480Z</lastmod>
+        <lastmod>2025-10-14T08:03:39.637Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://thecommercedevcast.github.io/the-commerce-devcast-6-automated-testing.html</loc>
+        <lastmod>2025-10-14T00:00:00.000Z</lastmod>
+        <changefreq>never</changefreq>
+        <priority>0.7</priority>
     </url>
     <url>
         <loc>https://thecommercedevcast.github.io/the-commerce-devcast-5-adobe-app-builder.html</loc>
