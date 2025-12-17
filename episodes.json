@@ -79,6 +79,16 @@
       "spotifyUrl": null,
       "thumbnail": "https://i.ytimg.com/vi/X4CD2Wq3A3o/maxresdefault.jpg",
       "duration": "1:20:26"
+    },
+    {
+      "slug": "the-commerce-devcast-1-adobe-app-builder-saas-and-the-future-of-e-commerce-development",
+      "title": "The Commerce DevCast #1 – Adobe App Builder, SaaS, and the Future of E-commerce Development",
+      "description": "<p>Hosts: Vlad Podorozhnyi , Oleksandr Kravchuk , Vitalii Boiko</p><p>In this first episode of The Commerce DevCast, we introduce our show and share why we decided to launch it. You’ll meet the hosts — three experienced developers deeply involved in the Magento and Adobe Commerce ecosystem — and hear about our journey in eCommerce development.</p><p>We dive into:<br> <ul><li>• The role of Adobe Commerce in today’s market<br> • What Adobe App Builder is, how it works, and why it matters<br> • Pros and cons of using App Builder in real projects<br> • How it connects with other Adobe services<br> • Key challenges around customization and cost<br> • When App Builder fits — and when it doesn’t<br> • The tools we use daily as developers<br> • Introduction to Adobe SaaS and what it means for the future<br> • And finally, how Adobe’s strategy is shaping the community</p><p>Whether you’re a developer, agency, or merchant — this episode gives you a deep but practical look at where Adobe Commerce is heading and how to prepare for it.</p></li></ul>",
+      "publishDate": "2025-04-17",
+      "youtubeUrl": "https://youtube.com/watch?v=PbjxM-tjgD0",
+      "spotifyUrl": null,
+      "thumbnail": "https://i.ytimg.com/vi/PbjxM-tjgD0/maxresdefault.jpg",
+      "duration": "1:06:54"
     }
   ]
 }
